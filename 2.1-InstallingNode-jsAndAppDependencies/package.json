@@ -1,0 +1,15 @@
+{
+  "name": "2.1-InstallingNode-jsAndAppDependencies",
+  "version": "1.0.0",
+  "description": "## 2.1 Installing Node.js and App Dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7"
+  }
+}
